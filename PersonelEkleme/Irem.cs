@@ -4,9 +4,12 @@ public class Class1
 {
 	public Irem()
 	{
-		public void Irem ()
-		{
 
+		public string Ad { get; set; } 
+
+	public void Irem ()
+		{
+		Console.WriteLine("ilbey naps");
 		}
 	}
 }
